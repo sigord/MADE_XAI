@@ -2,6 +2,8 @@
 
 The final project of the course Explainable AI at MADE Big Data Academy
 
+Comments and conclusion in Russian.
+
 Tasks:
 
 1. Train one model.
