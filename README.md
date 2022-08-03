@@ -20,4 +20,4 @@ Tasks:
 
 To view the results and code follow the link.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigord/MADE_Advanced_ML/blob/main/HW%201/HW1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigord/MADE_XAI/blob/main/xai-project-rugbyvssoccerclassification.ipynb)
